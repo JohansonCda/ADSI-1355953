@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
 	<meta charset="utf-8">
-	<title>EJEMPLO 1</title>
+	<title>EJEMPLO GIT</title>
 </head>
 <body>
 		<h1>Hola beibis</h1>
